@@ -1,0 +1,18 @@
+Yang perlu kamu siapkan
+Ollama sudah terpasang dan model lokal sudah bisa jalan.
+
+Python venv untuk project ini.
+
+Paket Python: langchain, langchain-community, faiss-cpu, pypdf, python-telegram-bot, dan ollama.
+
+Folder dokumen untuk PDF/manual/notes kamu.
+
+
+net-ai/
+├── data/
+│   ├── cisco/
+│   ├── tplink/
+│   └── mikrotik/
+├── db/
+├── rag_build.py
+└── telegram_bot.py
