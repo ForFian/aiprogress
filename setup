@@ -1,0 +1,8 @@
+net-ai/
+├── data/
+│   ├── cisco/
+│   ├── tplink/
+│   └── mikrotik/
+├── db/
+├── rag_build.py
+└── telegram_bot.py
